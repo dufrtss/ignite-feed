@@ -10,9 +10,9 @@ const posts = [
 	{
 		id: 1,
 		author: {
-			avatarUrl: 'https://github.com/eduardofreitas2.png',
 			name: 'Eduardo Freitas',
 			role: 'Sofware Developer',
+			avatarUrl: 'https://github.com/eduardofreitas2.png',
 		},
 		content: [
 			{ type: 'paragraph', content: 'Fala galeraa 👋' },
@@ -29,9 +29,9 @@ const posts = [
 	{
 		id: 2,
 		author: {
-			avatarUrl: 'https://github.com/SofiaMartinslv.png',
 			name: 'Sofia Martins',
 			role: 'Sofware Developer',
+			avatarUrl: 'https://github.com/SofiaMartinslv.png',
 		},
 		content: [
 			{ type: 'paragraph', content: 'Fala galeraa 👋' },
